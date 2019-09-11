@@ -6,11 +6,7 @@ def speak_to_grandma(greeting)
   end
 end
 
-def speak_to_grandma(greeting)
-  if greeting.upcase
-    return "NO, NOT SINCE 1938!".upcase
-  end
-end
+
 
 # Write a speak_to_grandma method.
 
