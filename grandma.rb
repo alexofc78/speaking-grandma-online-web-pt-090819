@@ -8,11 +8,10 @@ end
 
 def speak_to_grandma(greeting)
   if greeting.upcase
-    return "I LOVE YOU TOO PUMPKIN!".upcase
-  else 
-    return "HUH?! SPEAK UP, SONNY!".upcase
+    return "NO, NOT SINCE 1938!".upcase
   end
 end
+
 # Write a speak_to_grandma method.
 
 # Whatever you say to grandma, she should respond with
